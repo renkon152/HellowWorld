@@ -1,8 +1,4 @@
 renkon 
 oisii
 yone
-<<<<<<< HEAD
- 
-=======
 rakugaki
->>>>>>> 07f9cb6522d3e242c29f2b8c1c31c2ddcadd046a
